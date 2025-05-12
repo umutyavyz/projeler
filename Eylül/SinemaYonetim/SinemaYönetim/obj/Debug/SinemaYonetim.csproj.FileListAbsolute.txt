@@ -1,0 +1,36 @@
+C:\Users\EYLÜL\source\repos\SinemaYönetim\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.AssemblyReference.cache
+C:\Users\EYLÜL\source\repos\SinemaYönetim\SinemaYönetim\obj\Debug\SinemaYonetim.Form1.resources
+C:\Users\EYLÜL\source\repos\SinemaYönetim\SinemaYönetim\obj\Debug\SinemaYönetim.Properties.Resources.resources
+C:\Users\EYLÜL\source\repos\SinemaYönetim\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.GenerateResource.cache
+C:\Users\EYLÜL\source\repos\SinemaYönetim\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\EYLÜL\source\repos\SinemaYönetim\SinemaYönetim\obj\Debug\SinemaBiletiUygulaması.Form1.resources
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\bin\Debug\SinemaYönetim.exe.config
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\bin\Debug\SinemaYönetim.exe
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\bin\Debug\SinemaYönetim.pdb
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.AssemblyReference.cache
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.Form1.resources
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYönetim.Properties.Resources.resources
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.GenerateResource.cache
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYönetim.exe
+C:\Users\Burak Yılmaz\Desktop\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYönetim.pdb
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\bin\Debug\SinemaYönetim.exe.config
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\bin\Debug\SinemaYönetim.exe
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\bin\Debug\SinemaYönetim.pdb
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.AssemblyReference.cache
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.Form1.resources
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYönetim.Properties.Resources.resources
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.GenerateResource.cache
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYönetim.exe
+C:\Users\EYLÜL\OneDrive\Masaüstü\SinemaYonetim\Yeni klasör (4)\SinemaYönetim\obj\Debug\SinemaYönetim.pdb
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\bin\Debug\SinemaYönetim.exe.config
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\bin\Debug\SinemaYönetim.exe
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\bin\Debug\SinemaYönetim.pdb
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.AssemblyReference.cache
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYonetim.Form1.resources
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYönetim.Properties.Resources.resources
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.GenerateResource.cache
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYönetim.exe
+C:\Users\umuty\OneDrive\Masaüstü\SinemaYonetim\SinemaYönetim\obj\Debug\SinemaYönetim.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\proje c#\\SaglikTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31572E-0558-4684-9E9A-5F7C12EA9C22}|SaglikTakip\\SaglikTakip.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\proje c#\\sagliktakip\\sagliktakip\\raporekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF31572E-0558-4684-9E9A-5F7C12EA9C22}|SaglikTakip\\SaglikTakip.csproj|solutionrelative:sagliktakip\\raporekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31572E-0558-4684-9E9A-5F7C12EA9C22}|SaglikTakip\\SaglikTakip.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\proje c#\\SaglikTakip\\sagliktakip\\raporekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31572E-0558-4684-9E9A-5F7C12EA9C22}|SaglikTakip\\SaglikTakip.csproj|solutionrelative:sagliktakip\\raporekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Raporekleform.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\proje c#\\SaglikTakip\\SaglikTakip\\Raporekleform.cs",
+              "RelativeDocumentMoniker": "SaglikTakip\\Raporekleform.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\proje c#\\SaglikTakip\\SaglikTakip\\Raporekleform.cs",
+              "RelativeToolTip": "SaglikTakip\\Raporekleform.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAywCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:32:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Raporekleform.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\proje c#\\SaglikTakip\\SaglikTakip\\Raporekleform.cs",
+              "RelativeDocumentMoniker": "SaglikTakip\\Raporekleform.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\proje c#\\SaglikTakip\\SaglikTakip\\Raporekleform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SaglikTakip\\Raporekleform.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:08:04.395Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

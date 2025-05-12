@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AracKiralamaUygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|c:\\arackiralamauygulamas\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|c:\\arackiralamauygulamas\u0131\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|c:\\arackiralamauygulamas\u0131\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\kullaniciprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:kullaniciprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\kullaniciyonetimpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:kullaniciyonetimpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|C:\\AracKiralamaUygulamas\u0131\\kiralananaraclarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4088F76-7A53-4EDF-9D6B-FCE44FD536F4}|AracKiralamaUygulamas\u0131.csproj|solutionrelative:kiralananaraclarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\umuty\\AppData\\Local\\Temp\\lt40hwsg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\umuty\\AppData\\Local\\Temp\\thmk0jcq..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AracKiralama/True/SqlTable/dbo.Kullanicilar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\AnaForm.cs",
+              "RelativeDocumentMoniker": "AnaForm.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\AnaForm.cs",
+              "RelativeToolTip": "AnaForm.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwJAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:09:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\AnaForm.cs",
+              "RelativeDocumentMoniker": "AnaForm.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\AnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:09:47.562Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kullaniciProfil.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\kullaniciProfil.cs",
+              "RelativeDocumentMoniker": "kullaniciProfil.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\kullaniciProfil.cs",
+              "RelativeToolTip": "kullaniciProfil.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAArwE4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:09:09.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KullaniciYonetimPanel.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\KullaniciYonetimPanel.cs",
+              "RelativeDocumentMoniker": "KullaniciYonetimPanel.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\KullaniciYonetimPanel.cs",
+              "RelativeToolTip": "KullaniciYonetimPanel.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAjwLsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:08:22.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "registerForm.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\registerForm.cs",
+              "RelativeDocumentMoniker": "registerForm.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\registerForm.cs",
+              "RelativeToolTip": "registerForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAArwEAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:05:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "thmk0jcq..sql",
+              "DocumentMoniker": "C:\\Users\\umuty\\AppData\\Local\\Temp\\thmk0jcq..sql",
+              "RelativeDocumentMoniker": "..\\Users\\umuty\\AppData\\Local\\Temp\\thmk0jcq..sql",
+              "ToolTip": "C:\\Users\\umuty\\AppData\\Local\\Temp\\thmk0jcq..sql",
+              "RelativeToolTip": "..\\Users\\umuty\\AppData\\Local\\Temp\\thmk0jcq..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-07T22:13:58.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "ConnectionManager.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\ConnectionManager.cs",
+              "RelativeToolTip": "ConnectionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:46:12.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:51:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lt40hwsg..sql",
+              "DocumentMoniker": "C:\\Users\\umuty\\AppData\\Local\\Temp\\lt40hwsg..sql",
+              "RelativeDocumentMoniker": "..\\Users\\umuty\\AppData\\Local\\Temp\\lt40hwsg..sql",
+              "ToolTip": "C:\\Users\\umuty\\AppData\\Local\\Temp\\lt40hwsg..sql",
+              "RelativeToolTip": "..\\Users\\umuty\\AppData\\Local\\Temp\\lt40hwsg..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-07T21:18:32.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-07T11:19:41.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\loginForm.cs",
+              "RelativeToolTip": "loginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:45:05.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Kullanicilar.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AracKiralama/True/SqlTable/dbo.Kullanicilar.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AracKiralama/True/SqlTable/dbo.Kullanicilar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-07T22:16:06.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KiralananAraclarPanel.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\KiralananAraclarPanel.cs",
+              "RelativeDocumentMoniker": "KiralananAraclarPanel.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\KiralananAraclarPanel.cs",
+              "RelativeToolTip": "KiralananAraclarPanel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:57:32.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\AracKiralamaUygulamas\u0131\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\AracKiralamaUygulamas\u0131\\AdminPanel.cs",
+              "RelativeToolTip": "AdminPanel.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAArwH4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:57:12.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

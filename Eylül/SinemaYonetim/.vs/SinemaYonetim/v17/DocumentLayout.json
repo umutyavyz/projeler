@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\SinemaYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E51618-511F-450F-9A7A-D4C520D96786}|SinemaY\u00F6netim\\SinemaYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\sinemayonetim\\sinemay\u00F6netim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2E51618-511F-450F-9A7A-D4C520D96786}|SinemaY\u00F6netim\\SinemaYonetim.csproj|solutionrelative:sinemay\u00F6netim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E51618-511F-450F-9A7A-D4C520D96786}|SinemaY\u00F6netim\\SinemaYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\SinemaYonetim\\sinemay\u00F6netim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E51618-511F-450F-9A7A-D4C520D96786}|SinemaY\u00F6netim\\SinemaYonetim.csproj|solutionrelative:sinemay\u00F6netim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\SinemaYonetim\\SinemaY\u00F6netim\\Form1.cs",
+              "RelativeDocumentMoniker": "SinemaY\u00F6netim\\Form1.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\SinemaYonetim\\SinemaY\u00F6netim\\Form1.cs",
+              "RelativeToolTip": "SinemaY\u00F6netim\\Form1.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:40:37.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\SinemaYonetim\\SinemaY\u00F6netim\\Form1.cs",
+              "RelativeDocumentMoniker": "SinemaY\u00F6netim\\Form1.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\SinemaYonetim\\SinemaY\u00F6netim\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SinemaY\u00F6netim\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:33:04.727Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

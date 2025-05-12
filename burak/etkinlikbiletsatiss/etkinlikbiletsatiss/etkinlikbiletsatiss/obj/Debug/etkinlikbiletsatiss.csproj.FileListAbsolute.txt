@@ -1,0 +1,12 @@
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\etkinlikbiletsatiss.csproj.AssemblyReference.cache
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\EtkinlikBiletSistemi.Form1.resources
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\EtkinlikBiletSistemi.GirisForm.resources
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\etkinlikbiletsatiss.Properties.Resources.resources
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\EtkinlikBiletSistemi.UyeOlForm.resources
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\etkinlikbiletsatiss.csproj.GenerateResource.cache
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\etkinlikbiletsatiss.csproj.CoreCompileInputs.cache
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\bin\Debug\etkinlikbiletsatiss.exe.config
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\bin\Debug\etkinlikbiletsatiss.exe
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\bin\Debug\etkinlikbiletsatiss.pdb
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\etkinlikbiletsatiss.exe
+C:\Users\Burak Yılmaz\source\repos\etkinlikbiletsatiss\etkinlikbiletsatiss\obj\Debug\etkinlikbiletsatiss.pdb

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\uyeolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\uyeolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|c:\\users\\burak y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\uyeolform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\uyeolform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\uyeolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\uyeolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\girisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC812355-7760-473D-9BC1-04BCC25E0706}|etkinlikbiletsatiss\\etkinlikbiletsatiss.csproj|solutionrelative:etkinlikbiletsatiss\\girisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Form1.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\Form1.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Form1.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\Form1.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAYwIgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:01:47.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UyeOlForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\UyeOlForm.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\UyeOlForm.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\UyeOlForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "etkinlikbiletsatiss\\UyeOlForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:04:49.383Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GirisForm.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\GirisForm.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\GirisForm.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\GirisForm.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\GirisForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:03:32.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GirisForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\GirisForm.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\GirisForm.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\GirisForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "etkinlikbiletsatiss\\GirisForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:03:29.911Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Form1.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\Form1.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "etkinlikbiletsatiss\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:01:43.981Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Form1.Designer.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\Form1.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:02:14.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UyeOlForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\UyeOlForm.Designer.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\UyeOlForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\UyeOlForm.Designer.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\UyeOlForm.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:03:23.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Program.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\Program.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\Program.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:56:42.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UyeOlForm.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\UyeOlForm.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\UyeOlForm.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\UyeOlForm.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\UyeOlForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:04:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GirisForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\GirisForm.Designer.cs",
+              "RelativeDocumentMoniker": "etkinlikbiletsatiss\\GirisForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Burak Y\u0131lmaz\\source\\repos\\etkinlikbiletsatiss\\etkinlikbiletsatiss\\GirisForm.Designer.cs",
+              "RelativeToolTip": "etkinlikbiletsatiss\\GirisForm.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:03:48.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
